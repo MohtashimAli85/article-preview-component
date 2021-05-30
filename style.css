@@ -147,6 +147,9 @@ img {
     position: relative;
     overflow: visible;
   }
+  .article-img{
+    width: 100%;
+  }
   .article-img img {
     height: 100%;
     border-radius: 1rem 0 0 1rem;
@@ -155,7 +158,7 @@ img {
     position: initial;
   }
   .article-text .heading {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
   }
   .article-name-date {
     flex-basis: 70%;
