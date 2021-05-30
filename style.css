@@ -147,6 +147,10 @@ img {
     position: relative;
     overflow: visible;
   }
+  .article-col{
+  position: relative;
+left: -40px;
+background: #fff;}
   .article-img{
     width: 100%;
   }
@@ -160,6 +164,9 @@ img {
   .article-text .heading {
     font-size: 1.1rem;
   }
+  .article-text {
+    padding: 1.4rem 0rem 1.4rem 2.4rem;
+}
   .article-name-date {
     flex-basis: 70%;
   }
